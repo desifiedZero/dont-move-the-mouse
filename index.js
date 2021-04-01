@@ -1,7 +1,9 @@
 let stopMsg = [
     'NO! NO MOVING THE MOUSE.',
     'STOP IT!',
-    'IT TICKLES'
+    'IT TICKLES',
+    'YAMITE',
+    'YAMITE KUDASAI'
 ];
 let mouseMoving = false;
 
